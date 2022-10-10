@@ -26,5 +26,6 @@ double FindMedian(int array[], unsigned int size);
 int BinarySearch(int array[], unsigned int size, int key);
 void PrintArray(ostream& output, int array[], unsigned int size); //ostream can be a file, cout, or other things
 void ReadArray(istream& input, int array[], unsigned int size); //istream can be a file, cout, or other things
+void Swap(int& a, int& b);
 
 #endif //ARRAY_LIBRARY_01_ARRAY_LIBRARY_H
