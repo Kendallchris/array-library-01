@@ -22,9 +22,6 @@
   <component name="ChangeListManager">
     <list default="true" id="25d5bbc8-d34b-4212-9902-b2bac20a7798" name="Changes" comment="Update 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array_library.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/array_library.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array_library.h" beforeDir="false" afterPath="$PROJECT_DIR$/array_library.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +63,6 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="array_library_01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="array_library_01" TARGET_NAME="array_library_01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="array_library_01" RUN_TARGET_NAME="array_library_01">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -86,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1665000828817</updated>
       <workItem from="1665000830183" duration="4007000" />
-      <workItem from="1665172883237" duration="5642000" />
+      <workItem from="1665172883237" duration="5735000" />
+      <workItem from="1665432005253" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="Update 1">
       <created>1665001545460</created>
